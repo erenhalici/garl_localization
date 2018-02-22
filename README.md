@@ -1,13 +1,15 @@
 # Generative Adversarial Reinforcement Learning for Object Localization
 
-In the image below, the results of the 1024 test images can be found:
+In the image below, the results of the 1024 test images can be found (Please download the file in order to see it in full size):
 
-![1024 Test Images](test_images.jpg)
+![1024 Test Images](test_index.jpg)
 
 The red bounding boxes denote the output of the algorithm, whereas the green brounding boxes are the ground truth data. 
 
 The IoU and the accuracy performance of the algorithm on the whole test set is given below: 
 
+| Metric                    | Value  |
+| ------------------------- |:------:|
 | Mean of IoU Values        | 0.8526 |
 | Variance of IoU Values    | 0.0214 |
 | Accuracy (threshold 0.7)  | 0.9023 |

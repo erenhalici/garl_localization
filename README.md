@@ -1,6 +1,6 @@
 # Generative Adversarial Reinforcement Learning for Object Localization
 
-Below, the results for running training and running the [algorithm](https://ieeexplore.ieee.org/document/8451788) on the [Stanford Cars Dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) and [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) can be found. In both cases, the datasets have been split into training, validation and test sets. Here, the results on the 1024 test images for both datasets are being shown. (Please download the files in order to see them in full size.)
+Below, the results for running training and running the [algorithm](https://ieeexplore.ieee.org/document/8451788) on the [Stanford Cars Dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) and the [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) can be found. In both cases, the datasets have been split into training, validation and test sets. Here, the results on the 1024 test images for both datasets are being shown. (Please download the files in order to see them in full size.)
 
 ## Stanford Cars
 
